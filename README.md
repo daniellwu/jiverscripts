@@ -7,7 +7,7 @@ JavaScript framework or with other libraries.
 ## jive.oo.Class
 
 This is an implementation of classical inheritance.  It is based on [John
-Resig's][Simple Inheritance] implemantion, but is adapted to support true
+Resig's][Simple Inheritance] implementation, but is adapted to support true
 protected members.  Here is a quick example of how jive.oo.Class is used:
 
 [Simple Inheritance]: http://ejohn.org/blog/simple-javascript-inheritance/  "Simple Inheritance"
